@@ -1,6 +1,10 @@
-**SPACE RACING WEB BASED GAME**
+![image](https://user-images.githubusercontent.com/77273824/165493276-98d287e4-d9e1-4b67-96ce-e25bd9d88c12.png)**SPACE RACING WEB BASED GAME**
 
 >GOAL : Avoid the crash as long as possible!
+
+>**GAMEPLAY**
+
+https://user-images.githubusercontent.com/77273824/165501242-c4bb1322-2303-4e9e-91e0-89feb5393964.mp4
 
 - STEP-BY-STEP TO RUN THE PROJECT ON YOUR WEB HOSTING:
 1. Zip all the files from our github page and download it
@@ -28,10 +32,12 @@ Change it to your own database setup with the format : mysqli_connect("your_host
 > REGISTER MENU
 ![image](https://user-images.githubusercontent.com/77273824/165448224-03d76726-d41d-45f8-9445-746d83cb6326.png)
 > MAIN MENU
-![image](https://user-images.githubusercontent.com/77273824/165450742-0e4cdf01-1d53-468c-8e63-8598e76a6b8c.png)
+![image](https://user-images.githubusercontent.com/77273824/165493760-1bdacf14-1a15-44ad-9446-62ad8d77a8a4.png)
 > MAP
 - Note : The map will point automatically based on your country when you register
 
-![image](https://user-images.githubusercontent.com/77273824/165448557-ad7018c5-b129-4207-8ad3-087b305a9d2e.png)
+![image](https://user-images.githubusercontent.com/77273824/165493860-db0a6b24-14dc-4d0e-b69e-891c509ad9b5.png)
 
+> MATRIX PAGE
+![image](https://user-images.githubusercontent.com/77273824/165494163-8edd0a03-03dd-46a7-bf9f-83e3c3678814.png)
 
