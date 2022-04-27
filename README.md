@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/77273824/165493276-98d287e4-d9e1-4b67-96ce-e25bd9d88c12.png)**SPACE RACING WEB BASED GAME**
+**SPACE RACING WEB-BASED GAME**
 
 >GOAL : Avoid the crash as long as possible!
 
