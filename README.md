@@ -30,7 +30,8 @@ Change it to your own database setup with the format : mysqli_connect("your_host
 > MAIN MENU
 ![image](https://user-images.githubusercontent.com/77273824/165450742-0e4cdf01-1d53-468c-8e63-8598e76a6b8c.png)
 > MAP
--Note : The map will point automatically based on your country when you register
+- Note : The map will point automatically based on your country when you register
+
 ![image](https://user-images.githubusercontent.com/77273824/165448557-ad7018c5-b129-4207-8ad3-087b305a9d2e.png)
 
 
