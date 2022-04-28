@@ -22,6 +22,7 @@ https://user-images.githubusercontent.com/77273824/165501242-c4bb1322-2303-4e9e-
 ![image](https://user-images.githubusercontent.com/77273824/165442743-acb6d934-b16e-4470-91ff-01e2db67b442.png)
 
 Change it to your own database setup with the format : mysqli_connect("your_host", "your_username", "your_password", "your_database_name")
+
 9. Save and Close the main.php file
 10. Run **loggin.html** file, which is our landing page
 11. Basically everything is done. Now, all you need to do is register an account, then login and play
